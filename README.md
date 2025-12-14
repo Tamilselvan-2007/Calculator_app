@@ -42,6 +42,9 @@ Step 3: Get Dependencies
     
 Step 4: Run Application
     flutter run
+    
+## 📸 Screenshots
+
 
 ## 6. Working Principle
 
