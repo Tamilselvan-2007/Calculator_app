@@ -1,84 +1,74 @@
-🧮 Flutter Calculator App
+# 🧮 Flutter Calculator App
 
-A simple and elegant calculator application built using Flutter.
-This project demonstrates basic Flutter UI design, state management, and arithmetic operations in a clean, user-friendly interface.
+## 1. Project Overview
+A simple and professional calculator application built using **Flutter**.  
+It performs basic arithmetic operations with a clean and responsive UI.
 
-📱 Features
+---
 
-Basic arithmetic operations:
+## 2. Features
+1. Addition (+)
+2. Subtraction (−)
+3. Multiplication (×)
+4. Division (÷)
+5. All Clear (AC)
+6. Responsive button layout
+7. Dark theme UI
 
-Addition (+)
+---
 
-Subtraction (−)
+## 3. Technology Stack
+1. Framework: Flutter  
+2. Programming Language: Dart  
+3. UI Framework: Material Design  
 
-Multiplication (×)
+---
 
-Division (÷)
-
-Clear (AC) functionality
-
-Responsive button layout
-
-Minimal dark-themed UI
-
-Real-time input display
-
-🛠️ Tech Stack
-
-Framework: Flutter
-
-Language: Dart
-
-UI: Material Design
-
-📂 Project Structure
+## 4. Project Structure
 lib/
- └── main.dart      # Main application logic and UI
+└── main.dart
+---
 
-🚀 Getting Started
-Prerequisites
+## 5. Setup & Run Instructions
 
-Flutter SDK installed
+Step 1: Clone Repository
+    git clone https://github.com/YOUR_USERNAME/calculator_app.git  
 
-Android Studio / VS Code
+Step 2: Navigate to Project Folder
+    cd calculator_app
+    
+Step 3: Get Dependencies
+    flutter pub get
+    
+Step 4: Run Application
+    flutter run
 
-Android emulator or physical device
+## 6. Working Principle
 
-Run Locally
-git clone https://github.com/YOUR_USERNAME/calculator_app.git
-cd calculator_app
-flutter pub get
-flutter run
+1.Button clicks are handled using InkWell.
 
-🧠 How It Works
+2.Input values are stored as strings.
 
-Button taps are handled using InkWell
+3.Arithmetic operations are performed using double.parse().
 
-User input is stored as strings and converted to double for calculation
+4.UI updates are handled using setState().
 
-State is managed using setState
+5.Layout adapts dynamically using MediaQuery.
 
-Screen layout adapts dynamically using MediaQuery
+## 7. Future Enhancements
 
-📸 Screenshots
+1.Scientific calculator features
 
-Add screenshots here (optional)
+2.Improved error handling
 
-🔮 Future Improvements
+3.Calculation history
 
-Scientific calculator functions
+4.UI animations
 
-Better error handling (e.g., divide by zero)
+## 8. Author
 
-Improved UI animations
+-	 Tamil Selvan S
 
-History of calculations
+## 9. License
 
-👨‍💻 Author
-
-Tamil Selvan S
-Flutter Developer (Beginner)
-
-📜 License
-
-This project is open-source and available for learning and educational purposes.
+This project is open-source and intended for educational purposes.
