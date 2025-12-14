@@ -27,6 +27,7 @@ It performs basic arithmetic operations with a clean and responsive UI.
 ## 4. Project Structure
 lib/
 └── main.dart
+
 ---
 
 ## 5. Setup & Run Instructions
@@ -43,9 +44,16 @@ Step 3: Get Dependencies
 Step 4: Run Application
     flutter run
     
+ ---
+    
 ## 📸 Screenshots
 
+| Home Screen | Calculation Example |
+|-------------|---------------------|
+| ![Home](ScreenShots/AppScreen.png) | ![Result](ScreenShots/AppWorking.mp4) |
 
+ ---
+ 
 ## 6. Working Principle
 
 1.Button clicks are handled using InkWell.
@@ -58,6 +66,8 @@ Step 4: Run Application
 
 5.Layout adapts dynamically using MediaQuery.
 
+ ---
+
 ## 7. Future Enhancements
 
 1.Scientific calculator features
@@ -68,9 +78,13 @@ Step 4: Run Application
 
 4.UI animations
 
+ ---
+
 ## 8. Author
 
 -	 Tamil Selvan S
+
+ ---
 
 ## 9. License
 
