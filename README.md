@@ -50,7 +50,7 @@ Step 4: Run Application
 
 | Home Screen | Calculation Example |
 |-------------|---------------------|
-| ![Home](ScreenShots/AppScreen.png) | ![Result](ScreenShots/AppWorking.mp4) If it doesn't open go and see directly in the folder.Thereafter, by clicking the "View raw file" you can able to view the file.|
+| ![Home](ScreenShots/AppScreen.png) | (ScreenShots/First Step.png) --> (ScreenShots/Putting Multiplication Symbol.png) --> (ScreenShots/Multiplying by 3.png) --> (ScreenShots/Result.png). Additional: Go and see the full working video as a raw file (ScreenShots/AppWorking.mp4) |
 
  ---
  
