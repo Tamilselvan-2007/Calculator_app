@@ -50,13 +50,13 @@ Step 4: Run Application
 
 | Home Screen | Calculation Example |
 |-------------|---------------------|
-| ![Home](ScreenShots/AppScreen.png) | ![Step 1](ScreenShots/First Step.png) |
+| ![Home](ScreenShots/AppScreen.png) | ![Step 1](ScreenShots/First_Step.png) |
 
 <br>
 
 | Operation Selection | Result |
 |---------------------|--------|
-| ![Multiply](ScreenShots/Putting Multiply Symbol.png) | ![Result](ScreenShots/Result.png) |
+| ![Multiply](ScreenShots/Putting_Multiply_Symbol.png) | ![Result](ScreenShots/Result.png) |
 
 ### 🎥 Working Demo Video
 [Click here to watch the full working video](ScreenShots/AppWorking.mp4)
