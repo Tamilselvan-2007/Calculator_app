@@ -50,10 +50,18 @@ Step 4: Run Application
 
 | Home Screen | Calculation Example |
 |-------------|---------------------|
-| ![Home](ScreenShots/AppScreen.png) | (ScreenShots/First Step.png) --> (ScreenShots/Putting Multiplication Symbol.png) --> (ScreenShots/Multiplying by 3.png) --> (ScreenShots/Result.png). Additional: Go and see the full working video as a raw file (ScreenShots/AppWorking.mp4) |
+| ![Home](ScreenShots/AppScreen.png) | ![Step 1](ScreenShots/First Step.png) |
+
+<br>
+
+| Operation Selection | Result |
+|---------------------|--------|
+| ![Multiply](ScreenShots/Putting Multiply Symbol.png) | ![Result](ScreenShots/Result.png) |
+
+### 🎥 Working Demo Video
+[Click here to watch the full working video](ScreenShots/AppWorking.mp4)
 
  ---
- 
 ## 6. Working Principle
 
 1.Button clicks are handled using InkWell.
