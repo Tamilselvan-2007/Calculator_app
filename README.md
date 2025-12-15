@@ -50,7 +50,7 @@ Step 4: Run Application
 
 | Home Screen | Calculation Example |
 |-------------|---------------------|
-| ![Home](ScreenShots/AppScreen.png) | ![Result](ScreenShots/AppWorking.mp4) |
+| ![Home](ScreenShots/AppScreen.png) | ![Result](ScreenShots/AppWorking.mp4) If it doesn't open go and see directly in the folder.Thereafter, by clicking the "View raw file" you can able to view the file.|
 
  ---
  
